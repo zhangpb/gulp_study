@@ -1,0 +1,24 @@
+{
+  "name": "beijing",
+  "version": "1.0.0",
+  "description": "ceshi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "latest": "^0.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-uglify": "^3.0.2",
+    "run-sequence": "^2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangpb/gulp_study.git"
+  }
+}
